@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.e0fce128.css",
+    "main.js": "/portfolio-app/static/js/main.8a566c35.js",
+    "static/media/projectM.png": "/portfolio-app/static/media/projectM.8642e418a1aaa9c81e3f.png",
+    "static/media/oldwork.png": "/portfolio-app/static/media/oldwork.a7ca6180685be5d31281.png",
+    "static/media/portfolio-work.png": "/portfolio-app/static/media/portfolio-work.1407720029e45c3c9fd7.png",
+    "static/media/c++.png": "/portfolio-app/static/media/c++.5185ce2f4c945505ee4f.png",
+    "static/media/workingform.png": "/portfolio-app/static/media/workingform.81df3cd2194eb61233ee.png",
+    "static/media/react.png": "/portfolio-app/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio-app/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/portfolio-app/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio-app/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-app/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-app/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.e0fce128.css.map": "/portfolio-app/static/css/main.e0fce128.css.map",
+    "main.8a566c35.js.map": "/portfolio-app/static/js/main.8a566c35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0fce128.css",
+    "static/js/main.8a566c35.js"
+  ]
+}
