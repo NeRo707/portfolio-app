@@ -5,8 +5,8 @@ import JavaScript from '../assets/javascript.png';
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
 import GitHub from '../assets/github.png';
-import Tailwind from '../assets/tailwind.png';
-import Cpp from '../assets/c++.png';
+import Sass from '../assets/sass.png';
+import TypeScript from '../assets/typescript.png';
 
 const Skills = () => {
   return (
@@ -18,7 +18,7 @@ const Skills = () => {
             <div>
             
                 <p className='text-4xl font-bold inline border-b-4 border-pink-600'>Skills</p>
-                <p className='py-4' >// These are the technologies I've worked with</p>
+                <p className='py-4' >\\ These are the technologies I've worked with</p>
                 
             </div>
 
@@ -48,12 +48,12 @@ const Skills = () => {
                     <p className='my-4'>React JS</p>
                 </div>
                 <div className='shadow-md shadow-[040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={Tailwind} alt="Tailwind-icon" />
-                    <p className='my-4'>Tailwind</p>
+                    <img className='w-22 h-20 mx-auto' src={Sass} alt="Sass-icon" />
+                    <p className='my-4'>Sass</p>
                 </div>
                 <div className='shadow-md shadow-[040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={Cpp} alt="Cpp-icon" />
-                    <p className='my-4'>C++</p>
+                    <img className='w-20 mx-auto' src={TypeScript} alt="TypeScript-icon" />
+                    <p className='my-4'>TypeScript</p>
                 </div>
             </div>    
 
